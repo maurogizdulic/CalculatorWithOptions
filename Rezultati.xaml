@@ -1,0 +1,27 @@
+﻿<Window x:Class="KalkWithOptions.Rezultati"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KalkWithOptions"
+        mc:Ignorable="d"
+        Title="Rezultati" Height="450" Width="800" WindowState ="Maximized" WindowStyle="None" Closed="Window_Closed">
+
+    <Grid>
+        <Button Content="Izlaz" Click="BtnExit" VerticalAlignment="Top" Height="45" Background="#FF71FFC8" FontSize="36" FontFamily="Arial"/>
+        <Viewbox>
+        <Grid Width="700" Height="300">
+            <Label x:Name="Num1" Content="00" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,400,0" FontSize="48"/>
+            <Label x:Name="Symb" Content="+" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.262,-0.268" Margin="70,0,196,0" FontSize="48"/>
+            <Label x:Name="Num2" Content="00" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="150,0,0,0" FontSize="48"/>
+            <Label x:Name="Equal" Content="=" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="300,0,0,0" FontSize="48"/>
+            <TextBox x:Name="txtAnswer" TextWrapping="Wrap" Width="100" Height="100" Margin="500,0,0,0" Background="#FFB8FFDA" KeyDown="txtAnswer_KeyDown"  FontSize="48" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <Label x:Name="correctlbl" Content="" FontSize="36" Margin="0,230,0,0" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="#FF28B92A"/>
+            <Label x:Name="incorrectlbl" Content="" FontSize="24" Margin="0,230,0,0" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="#FFFF0C00"/>
+            </Grid>
+        </Viewbox>
+
+        <Label x:Name="scorelbl" Content="Bodovi: 0" Margin="0,53,0,0" FontSize="42"/>
+    
+    </Grid>
+</Window>

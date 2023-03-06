@@ -1,0 +1,87 @@
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\Matematički kotrljko.exe
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\Matematički kotrljko.deps.json
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\Matematički kotrljko.runtimeconfig.json
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\Matematički kotrljko.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\Matematički kotrljko.pdb
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\Matematički kotrljko.csproj.AssemblyReference.cache
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\Kalkulator.g.cs
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\Memory.g.cs
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\Operatori.g.cs
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\Rezultati.g.cs
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\App.g.cs
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\Matematički kotrljko_Content.g.cs
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\Matematički kotrljko_MarkupCompile.cache
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\Matematički kotrljko_MarkupCompile.lref
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\Kalkulator.baml
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\Memory.baml
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\Operatori.baml
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\Rezultati.baml
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\Matematički kotrljko.g.resources
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\Matematički kotrljko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\Matematički kotrljko.AssemblyInfoInputs.cache
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\Matematički kotrljko.AssemblyInfo.cs
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\Matematički kotrljko.csproj.CoreCompileInputs.cache
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\Matematički kotrljko.csproj.CopyComplete
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\Matematički kotrljko.dll
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\refint\Matematički kotrljko.dll
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\Matematički kotrljko.pdb
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\Matematički kotrljko.genruntimeconfig.cache
+C:\Users\Jan\source\repos\KalkWithOptions\obj\Release\net6.0-windows\ref\Matematički kotrljko.dll

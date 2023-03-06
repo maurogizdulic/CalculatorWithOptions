@@ -1,0 +1,2 @@
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\publish1\Matematički kotrljko.pdb
+C:\Users\Jan\source\repos\KalkWithOptions\bin\Release\net6.0-windows\publish1\Matematički kotrljko.exe

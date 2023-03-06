@@ -1,0 +1,35 @@
+﻿<Window x:Class="KalkWithOptions.Memory"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KalkWithOptions"
+        mc:Ignorable="d"
+        Title="Memory" Height="655" Width="850" Closed="Window_Closed" Background="#FFD3FFE4" KeyDown="Window_KeyDown">
+    <Grid x:Name="mainGrid" Margin="25,25,25,25" Background="#FF62EDFF">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock x:Name="txt1" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="36" Text="JEDAN" TextWrapping="NoWrap" PreviewKeyDown="txt1_PreviewKeyDown"/>
+        <TextBlock x:Name="txt2" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="36" Text="JEDAN" TextWrapping="NoWrap"/>
+        <TextBlock x:Name="txt3" Grid.Row="0" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="36" Text="JEDAN" TextWrapping="NoWrap"/>
+        <TextBlock x:Name="txt4" Grid.Row="0" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="36" Text="JEDAN" TextWrapping="NoWrap"/>
+        <TextBlock x:Name="txt5" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="36" Text="JEDAN" TextWrapping="NoWrap"/>
+        <TextBlock x:Name="txt6" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="36" Text="JEDAN" TextWrapping="NoWrap"/>
+        <TextBlock x:Name="txt7" Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="36" Text="JEDAN" />
+        <TextBlock x:Name="txt8" Grid.Row="1" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="36" Text="JEDAN"/>
+        <TextBlock x:Name="txt9" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="36" Text="JEDAN"/>
+        <TextBlock x:Name="txt10" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="36" Text="JEDAN"/>
+        <TextBlock x:Name="txt11" Grid.Row="2" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="36" Text="JEDAN"/>
+        <TextBlock x:Name="txt12" Grid.Row="2" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="36" Text="JEDAN"/>
+        <Image x:Name="prva" Height="100" Width="100" KeyDown="Image_KeyDown" Source="/1.png" Visibility="Hidden"/>
+    </Grid>
+</Window>

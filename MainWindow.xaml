@@ -1,0 +1,30 @@
+﻿<Window x:Class="KalkWithOptions.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KalkWithOptions"
+        mc:Ignorable="d"
+        Title="Matematički kotrljko" Height="450" Width="800" WindowState ="Maximized" WindowStyle="None" Closing="Window_Closing">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/abstract-background-with-waves-pastel-colors-vector-1993205.jpg"/>
+        </Grid.Background>
+        <Viewbox VerticalAlignment="Top">
+            <Grid Background="#FFC1FFDB" Height="70" Width="900" Margin="0,0,0,-3">
+            <Label Content="MATEMATIČKI KOTRLJKO" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Bahnschrift" FontWeight="Bold" FontSize="36"/>
+        </Grid>
+        </Viewbox>
+        <Viewbox>
+            <Grid HorizontalAlignment="Center" Width="250" Margin="50,50,50,10" Height="160">
+            <StackPanel Background="White">
+                    <Button Content="KALKULATOR" Height="40" Background="#FFA1D8A0" Click="BtnKalkulator" BorderBrush="#FF0A0909" BorderThickness="3,3,3,2" FontWeight="Bold"/>
+                    <Button Content="ŠTO JE TOČNO?" Height="40" Background="#FFA1D8A0" Click="Game1" BorderBrush="#FF0A0909" BorderThickness="3,1,3,2" FontWeight="Bold"/>
+                    <Button Content="MOZGALICA" Height="40" Background="#FFA1D8A0" Click="Game3" BorderBrush="#FF0A0909" BorderThickness="3,1,3,1" FontWeight="Bold"/>
+                    <Button Content="IZLAZ" Height="40" Background="#FFA1D8A0" Foreground="#FF0A0909" BorderBrush="#FF0A0909"  Click="ExitBtn" BorderThickness="3,2,3,3" FontWeight="Bold"/>
+                </StackPanel>
+        </Grid>
+        </Viewbox>
+
+    </Grid>
+</Window>
